@@ -3,12 +3,11 @@
   <a href="https://discord.gg/w3jknASmrZ">Discord</a> |
   <a href="https://youtube.com/channel/UCA7iFqXTLZa7FT474pGC5uA">YouTube</a> |
   <a href="https://twitter.com/manloje11">Twitter</a> |
-  <a href="https://codepen.io/">Code Pen</a>
 </p>
 
 <p align="center"><br>
   <a href="https://github.com/ManLoJe">
-    <img src="https://lanyard.cnrad.dev/api/896702787398828032"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/896702787398828032)](https://discord.com/users/896702787398828032)
      </a>
 </p>
 
